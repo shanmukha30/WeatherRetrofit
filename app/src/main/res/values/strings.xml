@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Retrofit</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="todo">TODO</string>
+    <string name="enter_the_city_name">Enter the city name...</string>
+    <string name="find_weather">Find weather</string>
+</resources>
